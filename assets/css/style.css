@@ -105,6 +105,15 @@ footer a:hover{
     color:#d8d8d8;
     margin-left: 10px;
 }
+.btn-hvr2{
+    transition-duration: 0.3s;
+    font-weight: 600;
+    color: white;
+}
+.btn-hvr2:hover{
+    background-color: #fff;
+    color: #1F2128;
+}
 /* ABOUT US */
 
 .bg-abt{
